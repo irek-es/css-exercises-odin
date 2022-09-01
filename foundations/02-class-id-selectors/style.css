@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(169, 25, 109);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#big-letters {
+    color: hsl(238, 68%, 70%);
+    font-size: 36px;
+}
+
+.odd.size {
+    font-size: 24px;
+}
+
+#smaller-letters {
+    background-color: #95f000;
+    font-size: 24px;
+    font-weight: 700;
+}
